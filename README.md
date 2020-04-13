@@ -37,8 +37,9 @@ Extend: A General Recommendation Model for Heterogeneous Networks. **TKDE 2016**
 8. Probabilistic Group Recommendation via Information Matching. **WWW 2013**. \[[pdf](http://www0.cs.ucl.ac.uk/staff/J.Gorla/www13-group-recs-gorla.pdf)\]
 9. Exploring Personal Impact for Group Recommendation. **CIKM 2012**. \[[pdf](https://dl.acm.org/doi/10.1145/2396761.2396848)\]
 10. Exploring Social Inﬂuence for Recommendation - A Generative Model Approach. **SIGIR 2012**. \[[pdf](https://dl.acm.org/doi/10.1145/2348283.2348373)\]
-11. Group Recommendation using Feature Space Representing Behavioral Tendency and Power Balance among Members. **RecSys 2011**. \[[pdf](https://dl.acm.org/doi/10.1145/2043932.2043953)\] 
-12. CATS: A Synchronous Approach to Collaborative Group Recommendation. **FLAIRS 2006**. \[[pdf](https://www.aaai.org/Papers/FLAIRS/2006/Flairs06-015.pdf)\]
+11. Event-based Social Networks: Linking the Online and Offline Social Worlds. **KDD 2012**. \[[pdf](https://dl.acm.org/doi/10.1145/2339530.2339693)\]
+12. Group Recommendation using Feature Space Representing Behavioral Tendency and Power Balance among Members. **RecSys 2011**. \[[pdf](https://dl.acm.org/doi/10.1145/2043932.2043953)\] 
+13. CATS: A Synchronous Approach to Collaborative Group Recommendation. **FLAIRS 2006**. \[[pdf](https://www.aaai.org/Papers/FLAIRS/2006/Flairs06-015.pdf)\]
 
 
 ## Deep Learning
@@ -49,9 +50,12 @@ Extend: Social-enhanced Attentive Group Recommendation. **TKDE 2019**. \[[pdf](h
 
 
 ## Datasets
-1. Plancast
-2. Meetup
-3. MovieLens 
-4. Mafengwo
-5. CAMRa2011
- 
+1. Meetup \[[paper](https://www.ntu.edu.sg/home/gaocong/papers/ICDE15_research_391.pdf)\], \[[data](https://www.ntu.edu.sg/home/gaocong/datacode.htm)\]
+2. MovieLens \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.2513&rep=rep1&type=pdf)\]
+3. Mafengwo \[[paper](http://staff.ustc.edu.cn/~hexn/papers/tkde19-social-group-rec.pdf)\], \[[data](https://github.com/caoda0721/SoAGREE/tree/master/data/MaFengWo)\]
+4. CAMRa2011 \[[paper](http://staff.ustc.edu.cn/~hexn/papers/sigir18-groupRS.pdf)\], \[[data](https://github.com/LianHaiMiao/Attentive-Group-Recommendation/tree/master/data/CAMRa2011)\]
+5. Plancast \[[paper](https://dl.acm.org/doi/10.1145/2339530.2339693)\]
+6. Whrrl \[[paper](https://dl.acm.org/doi/10.1145/2396761.2396848)\]
+7. Jiepang \[[paper](https://dl.acm.org/doi/10.1145/2623330.2623616)\]
+
+<sub> Note: you need to contact the authors for the original crawled datasets or follow the experimental setup section in the papers to reconstruct your own datasets.
