@@ -1,5 +1,5 @@
 # Group Recommender Systems
-\[WIP\] This repository contains recent research papers, datasets, and source codes (if any) for Group Recommendation
+\[WIP\] This repository contains recent research papers, datasets, and source codes (if any) for Group Recommendation. Free free to create a PR to merge.
 
 ## Memory-based Approach
 
@@ -28,7 +28,7 @@
 ## Model-based Approach
 1. Centrality-based Group Formation in Group Recommender Systems. **WWW 2017**. \[[pdf](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p1187.pdf)\]
 2. Recommending New Items to Ephemeral Groups Using Contextual User Influence. **RecSys 2016**. \[[pdf](https://dl.acm.org/doi/10.1145/2959100.2959137)\]
-3. A General Graph-based Model for Recommendation in Event-based Social Networks. **ICDE 2015**. \[[pdf](https://www.ntu.edu.sg/home/gaocong/papers/ICDE15_research_391.pdf)\] <br> 
+3. A General Graph-based Model for Recommendation in Event-based Social Networks. **ICDE 2015**. \[[pdf](https://www.ntu.edu.sg/home/gaocong/papers/ICDE15_research_391.pdf)\] <br>
 Extend: A General Recommendation Model for Heterogeneous Networks. **TKDE 2016**. \[[pdf](https://ieeexplore.ieee.org/document/7546911)\]
 4. COM: a Generative Model for Group Recommendation. **KDD 2014**. \[[pdf](https://dl.acm.org/doi/10.1145/2623330.2623616)\]
 5. Development of a group recommender application in a Social Network. **KBS 2014** \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S095070511400197X)\]
@@ -43,10 +43,13 @@ Extend: A General Recommendation Model for Heterogeneous Networks. **TKDE 2016**
 
 
 ## Deep Learning
-1. Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation. **SIGIR 2019**. \[[pdf](https://arxiv.org/pdf/1804.04327.pdf)\]
-2. Attentive Group Recommendation. **SIGIR 2018**. \[[pdf](http://staff.ustc.edu.cn/~hexn/papers/sigir18-groupRS.pdf)\], \[[code](https://github.com/LianHaiMiao/Attentive-Group-Recommendation)\] <br>
+1. Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation. **SIGIR 2020** \[[pdf](https://weizhangltt.github.io/paper/SIGIR20-Wang.pdf)\]
+2. GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation. **SIGIR 2020** \[[pdf](https://dl.acm.org/doi/10.1145/3397271.3401064)\]
+3. GroupIM: A Mutual Information Maximizing Framework for Neural Group Recommendation. **SIGIR 2020** \[[pdf](https://arxiv.org/pdf/2006.03736.pdf)\]
+4. Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation. **SIGIR 2019**. \[[pdf](https://arxiv.org/pdf/1804.04327.pdf)\]
+5. Attentive Group Recommendation. **SIGIR 2018**. \[[pdf](http://staff.ustc.edu.cn/~hexn/papers/sigir18-groupRS.pdf)\], \[[code](https://github.com/LianHaiMiao/Attentive-Group-Recommendation)\] <br>
 Extend: Social-enhanced Attentive Group Recommendation. **TKDE 2019**. \[[pdf](http://staff.ustc.edu.cn/~hexn/papers/tkde19-social-group-rec.pdf)\], \[[code](https://github.com/caoda0721/SoAGREE)\]
-3. Deep Modeling of Group Preferences for Group-Based Recommendation. **AAAI 2014**. \[[pdf](https://www.semanticscholar.org/paper/Deep-Modeling-of-Group-Preferences-for-Group-Based-Hu-Cao/d8b92ef3ca4d6ed5b5edda5b308802bd0a3df3b7)\]
+6. Deep Modeling of Group Preferences for Group-Based Recommendation. **AAAI 2014**. \[[pdf](https://www.semanticscholar.org/paper/Deep-Modeling-of-Group-Preferences-for-Group-Based-Hu-Cao/d8b92ef3ca4d6ed5b5edda5b308802bd0a3df3b7)\]
 
 
 ## Datasets
